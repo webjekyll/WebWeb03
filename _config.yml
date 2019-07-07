@@ -2,7 +2,7 @@
 # {{ site.title }}, {{ site.email }}, ..., {{ site.myvariable }}.
 title: SITE TITLE
 description: >-
-  (V006 20190707) This is the site discription. Duh!
+  (V007 20190707) This is the site discription. Duh!
 baseurl: "" 
 url: "" 
 email: site@ma.il
