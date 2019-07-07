@@ -1,7 +1,13 @@
 ---
 layout: home
 ---
-
+<h1>To Whom It May Concern</h1>
+This is just following [this tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB) 
+by [Mide Dane](https://www.mikedane.com/).
+<b>Thank you Mike</b>, may no force be with you!.
+<br><br>
+<h2>{{ site.author }}</h2>
+<br>
 <hr>
 {{ site.title }} -- 
 {{ site.description }} -- 
