@@ -2,7 +2,7 @@
 # {{ site.title }}, {{ site.email }}, ..., {{ site.myvariable }}.
 title: SITE TITLE
 description: >-
-  (V009 20190707) This is just following this tutorial by Mide Dane. Duh!
+  (V010 20190707) This is just following this tutorial by Mide Dane. Duh!
 author: Mr. Y. Yoda
 baseurl: "" 
 url: "" 
@@ -15,6 +15,14 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
 # exclude:
 #   - Gemfile
