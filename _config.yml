@@ -2,7 +2,7 @@
 # {{ site.title }}, {{ site.email }}, ..., {{ site.myvariable }}.
 title: Trying Giraffe Academy
 description: >-
-  (V014 20190713) This is just following the Giraffe Academy tutorial by Mide Dane.
+  (V015 20190714) This is just following the Giraffe Academy tutorial by Mide Dane.
 author: Mr. Y. Yoda
 baseurl: "" 
 url: "" 

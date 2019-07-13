@@ -1,7 +1,9 @@
 ---
 layout: "page"
-title: "Donate"
+title: "Tutorial"
+permalink: "/tutorial/"
 ---
 
 Do... Re... Mi...
+
 
