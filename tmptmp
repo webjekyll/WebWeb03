@@ -1,0 +1,7 @@
+---
+categories: "MikeDane"
+title: "Tutorial 10: "
+permalink: "/:categories/:title/"
+---
+
+# [{{ page.title }}]
