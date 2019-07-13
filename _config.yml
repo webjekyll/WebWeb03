@@ -2,7 +2,7 @@
 # {{ site.title }}, {{ site.email }}, ..., {{ site.myvariable }}.
 title: SITE TITLE
 description: >-
-  (V012 20190713) This is just following this tutorial by Mide Dane. Duh!
+  (V013 20190713) This is just following this tutorial by Mide Dane. Duh!
 author: Mr. Y. Yoda
 baseurl: "" 
 url: "" 
