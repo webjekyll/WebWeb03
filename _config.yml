@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 # {{ site.title }}, {{ site.email }}, ..., {{ site.myvariable }}.
-title: SITE TITLE
+title: Trying Giraffe Academy
 description: >-
-  (V013 20190713) This is just following this tutorial by Mide Dane. Duh!
+  (V014 20190713) This is just following the Giraffe Academy tutorial by Mide Dane.
 author: Mr. Y. Yoda
 baseurl: "" 
 url: "" 
@@ -13,6 +13,7 @@ github_username:  webjekyll
 # Build settings
 markdown: kramdown
 theme: minima
+github: [metadata]
 plugins:
   - jekyll-feed
 
