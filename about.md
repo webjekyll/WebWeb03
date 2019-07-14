@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: mypage
 title: About
+author: About Author
 permalink: /about/
 ---
 
