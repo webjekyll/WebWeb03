@@ -1,5 +1,5 @@
 ---
-permalink: "/testdir/"
+permalink: "/test/"
 ---
 <h2>{{ site.author }}</h2>
 <br>

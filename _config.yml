@@ -1,7 +1,7 @@
-title: Trying Giraffe Academy
+title: Trying Jekyll at Giraffe Academy
 description: >-
-  (V017 20190714) This is just following the Giraffe Academy tutorial by Mide Dane.
-author: Mr. Y. Yoda
+  (V018 20190714) This is just following the Giraffe Academy tutorial by Mide Dane.
+author: "Site Author"
 baseurl: "" 
 url: "" 
 email: site@ma.il
@@ -22,6 +22,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      author: "Default Page Author"
 
 # exclude:
 #   - Gemfile

@@ -6,7 +6,7 @@ layout: home
 - [GitHub](https://github.com/webjekyll/WebWeb03)
 - [About](../about/)
 - [Tutorial](../tutorial/)
-- [TestDir](../testdir/)
+- [Test](../test/)
 - [Test 404](xyzzy)
 <hr>
 <h1>To Whom It May Concern</h1>
