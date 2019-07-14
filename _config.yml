@@ -1,8 +1,6 @@
-# Welcome to Jekyll!
-# {{ site.title }}, {{ site.email }}, ..., {{ site.myvariable }}.
 title: Trying Giraffe Academy
 description: >-
-  (V016 20190714) This is just following the Giraffe Academy tutorial by Mide Dane.
+  (V017 20190714) This is just following the Giraffe Academy tutorial by Mide Dane.
 author: Mr. Y. Yoda
 baseurl: "" 
 url: "" 
