@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: "mytutorial"
 title: "Tutorial"
 author: "Tutorial Author"
 permalink: "/tutorial/"
@@ -25,7 +25,5 @@ permalink: "/tutorial/"
 - [Tutorial 17: Data Files](../mikedane/Tutorial-17/)
 - [Tutorial 18: Static Files](../mikedane/Tutorial-18/)
 - [Tutorial 19: Hosting on Github Pages](../mikedane/Tutorial-19/)
-
-
 
 

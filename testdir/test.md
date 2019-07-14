@@ -1,4 +1,5 @@
 ---
+layout: "page"
 permalink: "/test/"
 author: "Testdir Author"
 ---
