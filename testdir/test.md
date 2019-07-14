@@ -1,5 +1,6 @@
 ---
 permalink: "/test/"
+author: "Testdir Author"
 ---
 <h2>{{ site.author }}</h2>
 <br>
