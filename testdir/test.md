@@ -1,6 +1,7 @@
 ---
 layout: "mypage"
 permalink: "/test/"
+title: "Testing"
 author: "Testdir Author"
 ---
 <h2>{{ site.author }}</h2>
