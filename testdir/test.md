@@ -4,6 +4,9 @@ permalink: "/test/"
 title: "Testing"
 author: "Testdir Author"
 ---
+
+- [HOME](../../)
+
 <h2>{{ site.author }}</h2>
 <hr>
 <br>

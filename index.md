@@ -10,7 +10,11 @@ I am just following
 [Mike Dane](https://www.mikedane.com/)'s
 [tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB).
 It is a really really great tutorial! 
-<br>
+<ul>
+{% for post in site.posts %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
 My two cents tips would be:
 <ol><li>  Do not give up! What is not understood might be explained later.
 </li><li> Do not mess with GitHub Page until the end of this tutorial.
