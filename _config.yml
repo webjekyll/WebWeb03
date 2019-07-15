@@ -1,10 +1,10 @@
 title: Trying Jekyll at Giraffe Academy
 description: >-
-  (V035 20190715) I am just following Mike Dane's tutorial.
+  (V037 20190715) I am just following Mike Dane's tutorial.
   It is a really really great tutorial!
-baseurl: "" 
-url: "" 
 author: "Mr. Yoda-Yoda"
+# baseurl: "" 
+# url: "" 
 email: site@ma.il
 twitter_username: twitter
 github_username:  webjekyll
